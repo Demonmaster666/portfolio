@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yashavanthar.github.io/portfolio/sitemap.xml
+Sitemap: https://yashavanthar.onrender.com/sitemap.xml
+
