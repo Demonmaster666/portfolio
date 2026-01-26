@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Brain anomaly detection system",
+    "desc": "Built a TensorFlow-based MRI anomaly detection model with 82% accuracy. Developed Streamlit UI and real-time visualization of confidance",
+    "image": "brain",
+    "category": "website",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "AI-Driven Content Platform for Students",
+    "desc": "Designed a platform with AI chatbot, community forum, and quiz generator Integrated Google Gemini API, Firebase, and Python",
+    "image": "dashboard",
+    "category": "website",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Movie Recommendation System",
+    "desc": "This application uses a collaborative filtering approach based on item-item cosine similarity to recommend movies",
+    "image": "movierec",
+    "category": "website",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  }
+]
