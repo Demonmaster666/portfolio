@@ -29,10 +29,6 @@ const srtop = ScrollReveal({
 srtop.reveal('.experience .timeline',{delay: 400});
 srtop.reveal('.experience .timeline .container',{interval: 400}); 
 
-
-
-
-
 // disable developer mode
 document.onkeydown = function(e) {
   if(e.keyCode == 123) {
@@ -63,4 +59,3 @@ function(){
         $("#favicon").attr("href","/assets/images/favhand.png");
     }
 });
-
