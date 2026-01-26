@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000"
+    },
+
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"
+    },
+    {
+        "name": "Streamlit",
+        "icon": "https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"
+    },
+
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000"
+    },
+
+    {
+        "name": "Huggingface",
+        "icon": "https://img.icons8.com/?size=100&id=q6S0GG44EdtB&format=png&color=000000"
+    },
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000"
+    }   
+]
